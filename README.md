@@ -19,5 +19,8 @@ $ cd hunter
 $ ls
 $ python2 hunter.py
 
+User: ramdhan7
+Pass: hunter
+
 ````
 
